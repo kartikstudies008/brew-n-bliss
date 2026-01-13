@@ -1,8 +1,8 @@
 import './App.css'
 import { Routes, Route } from "react-router-dom";
 
-import Navbar from './components/Navbar/Navbar'
-import Footer from './components/Footer/Footer'
+import Navbar from './components/Navbar/Navbar.jsx'
+import Footer from './components/Footer/Footer.jsx'
 
 import Front from './Pages/Front'
 import MenuPage from './Pages/Menu'
